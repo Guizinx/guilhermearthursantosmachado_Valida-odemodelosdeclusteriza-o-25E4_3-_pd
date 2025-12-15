@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# env
+.venv/
+venv/
+.env
+
+# colab/jupyter exports
+*_files/
+*.tmp
+
+# colab folders (se aparecerem depois)
+.config/
+sample_data/
